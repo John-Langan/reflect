@@ -8,4 +8,7 @@ The staging area is a half way house between the working directory and the repos
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-By using git diff and git diff --staged to track the changes being made to the files and project. 
+By using git diff and git diff --staged to track the changes being made to the files and project.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help? 
+They help in keeping the production quality code in the master branch so that can be publicly available. Other branches can be created to work on new features or for experimental code which may or may not be shared with other people. 
