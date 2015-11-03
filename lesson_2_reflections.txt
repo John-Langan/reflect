@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The directory comes under the control of git. So we can tracke changes to the files in the directory as I work on the files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is a half way house between the working directory and the repository. The content has been added to the directory but has not yet been committed to the project. It is not yet under version control.
