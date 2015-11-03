@@ -12,3 +12,6 @@ By using git diff and git diff --staged to track the changes being made to the f
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help? 
 They help in keeping the production quality code in the master branch so that can be publicly available. Other branches can be created to work on new features or for experimental code which may or may not be shared with other people. 
+
+How do the diagrams help you visualize the branch structure?
+They show the branch structure produced by the commits made as the various parts of the code are developed. 
