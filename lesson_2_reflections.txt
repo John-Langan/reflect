@@ -15,3 +15,6 @@ They show the branch structure produced by the commits made as the various parts
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 All the commits that have taken place in each of the branches are now present in a single file. The master file is updated with the work done in a branch that is ready to be in the main project. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic saves time if there are no conflicts. Manual is needed if conflicts arise from the work of different developers working on the same files. They need to discuss the changes so they can agree on the final version and then merge manually.
