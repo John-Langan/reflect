@@ -1,1 +1,8 @@
 Add reflections for Lesson 3
+When would you want to use a remote repository rather than keeping all your work local?
+
+    Fill in your answer here
+As soon as some code has been written and/or other files have been created for my project. This ensures there is a back up in case my local machine has a problem.
+
+This is also essential if other people are involved in the project.
+
