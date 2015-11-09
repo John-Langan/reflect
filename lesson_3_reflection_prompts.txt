@@ -17,3 +17,6 @@ Any new work can be compared to the latest remote version. Fast forward merge is
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Send files by email or file transfer. Easier with git and github.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+WHen trying out some variations or experiments in the code or content. They may or may be successful so the master should not be changed until the new material is accepted by all people involved.
